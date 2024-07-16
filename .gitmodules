@@ -1,3 +1,6 @@
 [submodule "CrackYourInternship"]
 	path = CrackYourInternship
 	url = https://github.com/DevT75/CrackYourInternship.git
+[submodule "ubuntu-cpp"]
+	path = ubuntu-cpp
+	url = https://github.com/DevT75/ubuntu-cpp.git
